@@ -1,6 +1,5 @@
 # Personal School Website
-Easy Access url's
+A __quarterly updated__ website for __fast and easy access__ to class specific 
+information, class websites, and proffessional websites.
 
-On-the-Go Access to professional profiles.
-
-And Frequently Accessed Websites.
+Website: (https://jimenezjose.github.io/))
