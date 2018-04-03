@@ -1,4 +1,4 @@
-# jimenezjose.github.io
+# Personal School Website
 Easy Access url's
 
 On-the-Go Access to professional profiles.
