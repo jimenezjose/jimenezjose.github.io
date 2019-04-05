@@ -1,0 +1,50 @@
+body {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+}
+
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: underline;
+  font-size: 150%;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hover {
+  font-size: 151%;
+  opacity: 0.7; 
+}
+
+a.fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 2px 1px;
+  border-radius: 50%;
+}
+
+a.fa.hover {
+  opacity: 0.7;
+}
+
+a.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+a.fa-github {
+  background: black;
+  color: white
+}
+
+img.ucsd_logo {
+  position: absolute;
+  top: 20px;
+  left: 10%;
+}
