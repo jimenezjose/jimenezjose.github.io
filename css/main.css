@@ -4,6 +4,7 @@ body {
 }
 
 a:link {
+  font-weight: 300;
   color: green;
   background-color: transparent;
   text-decoration: underline;
@@ -52,7 +53,8 @@ img.ucsd_logo {
 .video-list {
   padding: 25px;
 }
-.video-item {
+
+.video-list .video-item {
   display: inline;
   margin: 15px;
   flex-wrap: wrap;
