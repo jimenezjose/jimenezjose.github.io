@@ -55,11 +55,11 @@ img.ucsd_logo {
 
 .video-list .video-item {
   display: inline;
-  margin: 15px;
+  padding: 5px;
   flex-wrap: wrap;
   justify-content: center;
 }
 
 .gallery {
-  padding: 25px;
+  margin: 15px;
 }
