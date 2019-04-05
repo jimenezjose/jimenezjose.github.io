@@ -55,7 +55,7 @@ img.ucsd_logo {
 
 .video-list .video-item {
   display: inline;
-  padding: 5px;
+  margin: 5px;
   flex-wrap: wrap;
   justify-content: center;
 }
