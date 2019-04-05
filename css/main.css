@@ -48,3 +48,13 @@ img.ucsd_logo {
   top: 20px;
   left: 10%;
 }
+
+.video-list {
+  padding: 25px;
+}
+.video-item {
+  display: inline;
+  margin: 15px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
