@@ -50,8 +50,7 @@ img.ucsd_logo {
   left: 10%;
 }
 
-.video-list {
-  padding: 25px;
+.video-list, .tweets {
 }
 
 .video-list .video-item {
@@ -59,4 +58,8 @@ img.ucsd_logo {
   margin: 15px;
   flex-wrap: wrap;
   justify-content: center;
+}
+
+.gallery {
+  padding: 25px;
 }
