@@ -53,7 +53,7 @@ img.ucsd_logo {
 .video-list, .tweets {
 }
 
-.video-list .video-item {
+.tweet-component .video-list .video-item {
   display: inline;
   margin: 5px;
   flex-wrap: wrap;
