@@ -1,0 +1,15 @@
+.top-bar {
+    border: 3px solid green;
+    white-space: nowrap;
+    align-items: center;
+}
+
+.top-bar * {
+    border: 3px solid blue;
+    display: inline-block;
+    font-size: 32px;
+}
+
+.top-bar div {
+    margin-left: 10px;
+}
